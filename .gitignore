@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+#Local files
+.directory
+results.csv
+.~lock.results.csv#
+
+#Test files
+test/
+*.txt
+*.js
+
